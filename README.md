@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Running the Code
 
-This code includes six models: `cga`, `gqe`, `gqe-diag`, `time_direct_encode`, `time_forward_NN`, and `time2vec`. Parameter files for each model are provided and stored in `xxxx.sh`.
+This code includes six models: `cga`, `gqe`, `gqe-diag`, `TFKGE_direct`, `TFKGE_fnn`, and `TFKGE_full`. Parameter files for each model are provided and stored in `xxxx.sh`.
 
 1. Navigate to the `./tfkge/netquery/yagotime/` directory and configure the parameters according to the `.sh` file before running.
 2. Alternatively, you can simply double-click the `.sh` file to run it.
