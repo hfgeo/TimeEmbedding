@@ -7,9 +7,7 @@ This project introduces the Temporal Feature Knowledge Graph Embedding (TFKGE) m
 
 ### Model Architecture
 
-<p align="center">
-  <img src="image/Model_Architecture.png" alt="Model Architecture"/>
-</p>
+<img src="image/Model_Architecture.png" alt="Model Architecture"/>
 
 ### Example Query Process
 
