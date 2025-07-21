@@ -1,5 +1,5 @@
 
-# Eliminating Semantic Bias of Geographic Objects in Geographic Query Tasks Using Temporal Embedding Enhancing Methods
+# Enhancing Semantic Accuracy in Geographic Knowledge Graph Embeddings through Temporal Encoding
 
 This project introduces the Temporal Feature Knowledge Graph Embedding (TFKGE) model, which integrates temporal data to effectively eliminate semantic bias in geographic knowledge graph queries, enhancing accuracy in geographic query tasks.
 
